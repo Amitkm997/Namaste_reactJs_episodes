@@ -1,0 +1,27 @@
+{
+  "name": "namaste_reactjs_episodes",
+  "version": "1.0.0",
+  "description": "These are codes of namaste reactjs series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amitkm997/Namaste_reactJs_episodes.git"
+  },
+  "author": "Amit kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amitkm997/Namaste_reactJs_episodes/issues"
+  },
+  "homepage": "https://github.com/Amitkm997/Namaste_reactJs_episodes#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  }
+}
