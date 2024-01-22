@@ -2,9 +2,10 @@
   "name": "namaste_reactjs_episodes",
   "version": "1.0.0",
   "description": "These are codes of namaste reactjs series",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,8 @@
   "homepage": "https://github.com/Amitkm997/Namaste_reactJs_episodes#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "parcel": "^2.10.3",
